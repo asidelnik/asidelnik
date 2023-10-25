@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**asidelnik/asidelnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I am a Senior Frontend (React.JS) Web Developer with 5 years of experience
+  - I have a great passion for web UI & Design
+- 🔭 I’m looking for a Senior Frontend (React.JS) Web Developer position
+  
+- ✊ My latest project: https://asidelnik.github.io/support-israel
+  - A website to create Facebook images that support Israel
+- I’m currently working on a React videos dashboard website.
+  - Its purpose is to prevent violence
+  - I am part of a team of 5 developers (React.JS, iOS, Android & server), UX & Web desingers
+- 📫 Reach me at: https://www.linkedin.com/in/amossidelnik/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Small study projects
+* [Theme toggling](https://asidelnik.github.io/theme-toggling--css-variables/)
