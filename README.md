@@ -13,4 +13,4 @@
 
 ### Small study projects
 * [Theme toggling](https://asidelnik.github.io/theme-toggling--css-variables/)
-* [Frontend coding cards (work in progress)](https://github.com/asidelnik/coding-quiz/)
+* [Frontend coding cards](https://github.com/asidelnik/coding-quiz/) (work in progress)
