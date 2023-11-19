@@ -8,7 +8,7 @@
 - React dashboard to document violent events
   - https://github.com/asidelnik/document-violence-dashboard
 
-- Website to create Facebook images that support Israel is 
+- Website to create Facebook images that support Israel
   - https://asidelnik.github.io/support-israel
   
 ### Reach me at:
