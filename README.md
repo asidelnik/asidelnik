@@ -4,11 +4,15 @@
   - I have a great passion for web UI & Design
 - 🔭 I’m looking for a Senior Frontend (React.JS) Web Developer position
   
-- ✊ My latest project: https://asidelnik.github.io/support-israel
-  - A website to create Facebook images that support Israel
-- I’m currently working on a React dashboard to document violent events
+### My latest projects
+- React dashboard to document violent events
   - https://github.com/asidelnik/document-violence-dashboard
-- 📫 Reach me at: https://www.linkedin.com/in/amossidelnik/
+
+- Website to create Facebook images that support Israel is 
+  - https://asidelnik.github.io/support-israel
+  
+### Reach me at:
+https://www.linkedin.com/in/amossidelnik/
 
 
 ### Small study projects
