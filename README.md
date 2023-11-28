@@ -5,7 +5,7 @@
 - 🔭 I’m looking for a Senior Frontend (React.JS) Web Developer position
   
 ### My latest projects
-- React dashboard to document violent events
+- React dashboard to document violent events (work in progress)
   - https://github.com/asidelnik/document-violence-dashboard
 
 - Website to create Facebook images that support Israel
