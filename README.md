@@ -17,4 +17,3 @@ https://www.linkedin.com/in/amossidelnik/
 
 ### Small study projects
 * [Theme toggling](https://asidelnik.github.io/theme-toggling--css-variables/)
-* [Frontend coding cards](https://github.com/asidelnik/coding-quiz/) - work in progress
