@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🖥️ I am a Senior FrontEnd Developer with 7 years of experience
-  - I have a great passion for web UI & Design
+  - I work with both React & Angular
+  - Extensive UX/UI experience - B.Design degree from Bezalel
+  - Extensive BackEnd experience - C# .NET Core and SQL Server
   
 ### My latest projects
 - React dashboard to document violent events
