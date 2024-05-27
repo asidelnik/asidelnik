@@ -18,4 +18,7 @@ https://www.linkedin.com/in/amossidelnik/
 
 
 ### Small study projects
+* [React - generic table & form - website](https://github.com/asidelnik/database-connection-manager)
+* [Angular - generic table & form - website](https://github.com/asidelnik/generic-angular-components)
+* [MERN & SSR - small website study](https://github.com/asidelnik/mern-ssr)
 * [Theme toggling](https://asidelnik.github.io/theme-toggling--css-variables/)
