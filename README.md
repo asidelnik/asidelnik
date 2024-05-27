@@ -8,7 +8,7 @@
 ### My latest projects
 - React dashboard to document violent events
   - https://github.com/asidelnik/document-violence-dashboard
-  - Demo of existing project (work in progress)
+  - Demo of a private project (with permission). Work in progress.
 
 - Website to create Facebook images that support Israel
   - https://asidelnik.github.io/support-israel
