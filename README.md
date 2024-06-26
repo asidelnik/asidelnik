@@ -7,7 +7,7 @@
   
 ### Latest projects & studies
 - **React dashboard to document violent events**
-  - https://github.com/asidelnik/document-violence-dashboard
+  - [Code](https://github.com/asidelnik/document-violence-dashboard)
   - Demo of a private project (with permission). Work in progress.
 
 - **100% Responsive - Facebook image maker**
