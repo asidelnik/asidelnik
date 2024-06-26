@@ -12,7 +12,6 @@
 
 - **100% Responsive - Facebook image maker**
   - React, Typescript, Responsive design, Material UI & CSS Modules
-  - Website to create Facebook images that support Israel
   - [Demo site](https://asidelnik.github.io/support-israel)
   - [Code](https://github.com/asidelnik/support-israel)
 
