@@ -15,7 +15,7 @@
   - Website to create Facebook images that support Israel
   - https://asidelnik.github.io/support-israel
 
-- **Generic React Typescript website**
+- **Generic Typescript React website**
   - Generic routing, generic tables & generic forms
   - [Demo site](https://asidelnik.github.io/react-typescript-generics/#/databases/items)
   - [Code](https://github.com/asidelnik/react-typescript-generics)
