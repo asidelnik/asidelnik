@@ -15,7 +15,7 @@
   - Website to create Facebook images that support Israel
   - https://asidelnik.github.io/support-israel
 
-- **Generic Typescript React website**
+- **100% Generic Typescript React website**
   - Generic routing, generic tables & generic forms
   - [Demo site](https://asidelnik.github.io/react-typescript-generics/#/databases/items)
   - [Code](https://github.com/asidelnik/react-typescript-generics)
@@ -24,7 +24,7 @@
   - MongoDB, Express, React, Node.js & Next.JS Server Side Rendering
   - https://github.com/asidelnik/mern-ssr
 
-- **Theme toggling**
+- **Theme toggling - CSS Variables study**
   - A study of theme toggling with React, CSS variables, custom hooks, useContext, useReducer and custom MUI components.
   - [Demo site](https://asidelnik.github.io/theme-toggling--css-variables/)
   - [Code](https://github.com/asidelnik/theme-toggling--css-variables)
