@@ -10,7 +10,7 @@
   - https://github.com/asidelnik/document-violence-dashboard
   - Demo of a private project (with permission). Work in progress.
 
-- **Facebook image maker**
+- **100% Responsive - Facebook image maker**
   - React, Typescript, Responsive design, Material UI & CSS Modules
   - Website to create Facebook images that support Israel
   - https://asidelnik.github.io/support-israel
