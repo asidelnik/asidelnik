@@ -14,6 +14,8 @@
   - React, Typescript, Responsive design, Material UI & CSS Modules
   - Website to create Facebook images that support Israel
   - https://asidelnik.github.io/support-israel
+  - [Demo site](https://asidelnik.github.io/support-israel)
+  - [Code](https://github.com/asidelnik/support-israel)
 
 - **100% Generic Typescript React website**
   - Generic routing, generic tables & generic forms
@@ -22,7 +24,7 @@
 
 - **MERN & SSR - website study**
   - MongoDB, Express, React, Node.js & Next.JS Server Side Rendering
-  - https://github.com/asidelnik/mern-ssr
+  - [Code](https://github.com/asidelnik/mern-ssr)
 
 - **Theme toggling - CSS Variables study**
   - A study of theme toggling with React, CSS variables, custom hooks, useContext, useReducer and custom MUI components.
