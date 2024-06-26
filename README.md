@@ -16,17 +16,17 @@
   - https://asidelnik.github.io/support-israel
 
 - **React Typescript - generic routing, tables & forms**
- - [Demo site](https://asidelnik.github.io/react-typescript-generics/#/databases/items)
- - [Code](https://github.com/asidelnik/react-typescript-generics)
+  - [Demo site](https://asidelnik.github.io/react-typescript-generics/#/databases/items)
+  - [Code](https://github.com/asidelnik/react-typescript-generics)
 
-- **MERN & SSR - small website study**
- - MongoDB, Express, React, Node.js & Next.JS Server Side Rendering
- - https://github.com/asidelnik/mern-ssr
+- **MERN & SSR - website study**
+  - MongoDB, Express, React, Node.js & Next.JS Server Side Rendering
+  - https://github.com/asidelnik/mern-ssr
 
 - **Theme toggling**
- - A study of theme toggling with React, CSS variables, custom hooks, useContext, useReducer and custom MUI components.
- - [Demo site](https://asidelnik.github.io/theme-toggling--css-variables/)
- - [Code](https://github.com/asidelnik/theme-toggling--css-variables)
+  - A study of theme toggling with React, CSS variables, custom hooks, useContext, useReducer and custom MUI components.
+  - [Demo site](https://asidelnik.github.io/theme-toggling--css-variables/)
+  - [Code](https://github.com/asidelnik/theme-toggling--css-variables)
    
 ### Reach me at:
 https://www.linkedin.com/in/amossidelnik/
