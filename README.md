@@ -15,7 +15,7 @@
   - [Demo site](https://asidelnik.github.io/support-israel)
   - [Code](https://github.com/asidelnik/support-israel)
 
-- **100% Generic Typescript React website**
+- **React Typescript Generic components**
   - Generic routing, generic tables & generic forms
   - [Demo site](https://asidelnik.github.io/react-typescript-generics/#/databases/items)
   - [Code](https://github.com/asidelnik/react-typescript-generics)
