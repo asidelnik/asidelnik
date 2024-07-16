@@ -20,7 +20,7 @@
   - [Demo site](https://asidelnik.github.io/react-typescript-generics/#/databases/items)
   - [Code](https://github.com/asidelnik/react-typescript-generics)
 
-- **MERN & SSR - website study**
+- **MERN - website study**
   - MongoDB, Express, React, Node.js & Next.JS Server Side Rendering
   - [Code](https://github.com/asidelnik/mern-ssr)
 
