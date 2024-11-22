@@ -13,7 +13,7 @@
 
 - **100% Responsive - Facebook image maker**
   - React, Typescript, Responsive design, Material UI, CSS Modules & global state with the Redux pattern.
-  - [Demo site](https://asidelnik.github.io/support-israel)
+  - [Site link](https://asidelnik.github.io/support-israel)
   - [Code](https://github.com/asidelnik/support-israel)
 
 - **React Typescript Generic components**
