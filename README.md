@@ -6,10 +6,10 @@
   - Extensive BackEnd experience - C# .NET Core and SQL Server
   
 ### Latest projects & studies
-- **Documentor - React dashboard to document violent events**
+- **Documentor - React dashboard to document violent events with videos**
+  - [Demo site](https://asidelnik.github.io/documentor/)
   - [Code](https://github.com/asidelnik/document-violence-dashboard)
-  - [Tasks management](https://github.com/users/asidelnik/projects/1) - Github Projects project
-  - Demo of a private project (with permission). Work in progress.
+  - [Project tasks management](https://github.com/users/asidelnik/projects/1)
 
 - **100% Responsive - Facebook image maker**
   - React, Typescript, Responsive design, Material UI, CSS Modules & global state with the Redux pattern.
