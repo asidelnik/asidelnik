@@ -6,7 +6,8 @@
   - Extensive BackEnd experience - C# .NET Core and SQL Server
   
 ### Latest projects & studies
-- **Documentor - React dashboard to document violent events with videos**
+- **Documentor - Videos documentation app for violent events**
+  - Technologies: React, TypeScript, Tanstack-Query, Material-UI, SCSS
   - [Demo site](https://asidelnik.github.io/documentor/)
   - [Code](https://github.com/asidelnik/document-violence-dashboard)
   - [Project tasks management](https://github.com/users/asidelnik/projects/1)
