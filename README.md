@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 - 🖥️ I am a Senior FrontEnd Developer with 7 years of experience
-  - I work with both React & Angular
-  - Extensive UX/UI experience - B.Design degree from Bezalel
+  - I mainly work with React and its ecosystem
   - Extensive BackEnd experience - C# .NET Core and SQL Server
-  
+  - UX/UI experience - B.Design degree from Bezalel
+    
 ### Latest projects & studies
-- **Documentor - Videos documentation app for violent events**
+- **Documentor - Videos documentation website for violent events**
   - React, TypeScript, Tanstack-Query, Material-UI, SCSS
   - [Demo site](https://asidelnik.github.io/documentor/)
-  - [Code](https://github.com/asidelnik/document-violence-dashboard)
+  - [Code](https://github.com/asidelnik/documentor)
   - [Project tasks management](https://github.com/users/asidelnik/projects/1)
 
 - **100% Responsive - Facebook image maker**
